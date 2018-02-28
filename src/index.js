@@ -1,3 +1,4 @@
 module.exports = function solveEquation(equation) {
-  // your implementation
-}
+    // your implementation
+    var name = "Vadim";
+};
